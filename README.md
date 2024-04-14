@@ -1,1 +1,2 @@
-This is a example for the Grocery Organizer exercise for the coding club.
+This is a example for the Grocery Organizer exercise for the coding club. Before looking at the code, I would advice trying to do the exercise yourself with the help of this flow chart.
+![Flow Chart](./img/chart.png)
