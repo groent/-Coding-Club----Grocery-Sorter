@@ -1,0 +1,1 @@
+This is a example for the Grocery Organizer exercise for the coding club.
